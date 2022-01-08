@@ -1,4 +1,4 @@
-![도서소개](도서소개.png)
+![도서소개](도서소개.png)   
 책 구매: http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791163031185&orderClick=LEa&Kc=
 
 ---
